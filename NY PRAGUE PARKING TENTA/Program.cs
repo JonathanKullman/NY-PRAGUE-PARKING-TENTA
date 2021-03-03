@@ -9,6 +9,8 @@ namespace NY_PRAGUE_PARKING_TENTA
     {
         static void Main(string[] args)
         {
+
+              
             //SKapar dessa två encoding.unicode för att kunna skriva ut och ta in bland annat tjeckiska tecken.
             Console.OutputEncoding = Encoding.Unicode;
             Console.InputEncoding = Encoding.Unicode;
